@@ -1,5 +1,5 @@
 fun main(){
-    val shoppingList = mutableListOf("Lamborghini", "Penthouse","Rolex")
+    val shoppingList = mutableListOf("Lamborghini", "Penthouse", "Rolex")
     shoppingList.add("Mercedes")
 
 //  ========== LOOPS ========
